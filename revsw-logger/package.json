@@ -1,0 +1,15 @@
+{
+  "name": "revsw-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "winston": "^1.0.2"
+  }
+}
