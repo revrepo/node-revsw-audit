@@ -1,0 +1,27 @@
+{
+  "userType": {
+    "user"          : "user",
+    "apikey"        : "apikey",
+    "system"        : "system"
+  },
+  "activityType": {
+    "add"           : "add",
+    "modify"        : "modify",
+    "delete"        : "delete",
+    "publish"       : "publish",
+    "purge"         : "purge"
+  },
+  "activityTarget": {
+    "user"          : "user",
+    "account"       : "account",
+    "domain"        : "domain",
+    "purge"         : "purge",
+    "object"        : "object",
+    "apikey"        : "apikey",
+    "billing_plan"  : "billing_plan"
+  },
+  "operationStatus": {
+    "success"       : "success",
+    "failure"       : "failure"
+  }
+}
